@@ -107,15 +107,3 @@ notebooks/
   floor directly (its gates G6-G10) and reports it with every comparison.
 - Stream and re-ingest states are mathematically identical for RWKV-7; notebook 03 treats their agreement as
   a correctness check, not as a finding.
-
-## Citation
-
-```bibtex
-@misc{rwkv_memory_longmemeval,
-  title  = {Incrementally Maintained {RWKV} Memory as a Retrieval Guide for Small {LLM}s:
-            An Evaluation on {LongMemEval}},
-  author = {TODO},
-  year   = {2026},
-  url    = {https://github.com/ShajeeAmjad/RWKV-Memory-Retrieval-For-Small-LLMs}
-}
-```
